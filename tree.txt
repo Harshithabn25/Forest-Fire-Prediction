@@ -1,0 +1,15 @@
+                 Humidity
+                    |
+      ------------------------------
+      |                            |
+   > 45                            <= 45
+     |                               |
+   Temperature                Oxygen
+      |                           |
+    <= 30                     > 50
+     |                           |
+Fire Occurrence = 1          Fire Occurrence = 0
+     |
+   > 30
+     |
+Fire Occurrence = 1
